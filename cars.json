@@ -1,0 +1,406 @@
+[
+  {
+    "id": "1",
+    "text": "The Toyota Camry is a popular mid-size sedan known for its reliability, fuel efficiency, and comfortable ride.",
+    "make": "Toyota",
+    "type": "Sedan",
+    "seat": 4,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "2",
+    "text": "The Honda CR-V is a compact SUV offering a spacious interior, good fuel economy, and a smooth driving experience.",
+    "make": "Honda",
+    "type": "SUV",
+    "seat": 2,
+    "fuel_type": "Electric"
+  },
+  {
+    "id": "3",
+    "text": "The Ford F-150 is America's best-selling full-size pickup truck, highly regarded for its towing capability, powerful engine options, and versatility.",
+    "make": "Ford",
+    "type": "Truck",
+    "seat": 4,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "4",
+    "text": "The Tesla Model 3 is an electric compact executive sedan, celebrated for its long range, rapid acceleration, and advanced technology features.",
+    "make": "Tesla",
+    "type": "Electric Sedan",
+    "seat": 5,
+    "fuel_type": "Electric"
+  },
+  {
+    "id": "5",
+    "text": "The BMW 3 Series is a luxury compact executive car, known for its sporty handling, premium interior, and powerful engine options.",
+    "make": "BMW",
+    "type": "Luxury Sedan",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "6",
+    "text": "The Porsche 911 is an iconic high-performance sports car, famous for its distinctive design, exhilarating driving dynamics, and rich racing heritage.",
+    "make": "Porsche",
+    "type": "Sports Car",
+    "seat": 2,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "7",
+    "text": "The Jeep Wrangler is a compact and mid-size four-wheel drive off-road SUV, recognizable by its rugged design and exceptional off-road capabilities.",
+    "make": "Jeep",
+    "type": "Off-road SUV",
+    "seat": 4,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "8",
+    "text": "The Mercedes-Benz C-Class is a series of compact executive cars known for their elegant design, luxurious interior, and advanced safety features.",
+    "make": "Mercedes-Benz",
+    "type": "Luxury Sedan",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "9",
+    "text": "The Subaru Outback is a mid-size SUV known for its all-wheel-drive system, spacious cargo area, and suitability for outdoor adventures.",
+    "make": "Subaru",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "10",
+    "text": "The Chevrolet Silverado is a full-size pickup truck offering a range of powerful engines, strong towing capabilities, and a comfortable cabin.",
+    "make": "Chevrolet",
+    "type": "Truck",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "11",
+    "text": "The Volkswagen Golf is a compact car, often available as a hatchback, praised for its refined driving experience and practical design.",
+    "make": "Volkswagen",
+    "type": "Hatchback",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "12",
+    "text": "The Audi A4 is a compact executive car known for its sophisticated design, high-quality interior materials, and engaging driving dynamics.",
+    "make": "Audi",
+    "type": "Luxury Sedan",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "13",
+    "text": "The Mazda MX-5 Miata is a lightweight, two-seater roadster, celebrated for its balanced handling, nimble performance, and engaging driving experience.",
+    "make": "Mazda",
+    "type": "Sports Car",
+    "seat": 2,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "14",
+    "text": "The Hyundai Elantra is a compact car offering a stylish design, comfortable ride, and good fuel efficiency at an affordable price point.",
+    "make": "Hyundai",
+    "type": "Compact Sedan",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "15",
+    "text": "The Kia Telluride is a popular mid-size SUV, praised for its spacious and upscale interior, comfortable ride, and strong value proposition.",
+    "make": "Kia",
+    "type": "SUV",
+    "seat": 7,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "16",
+    "text": "The Nissan Altima is a sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Nissan",
+    "type": "Sedan",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "17",
+    "text": "The Toyota RAV4 is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Toyota",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "18",
+    "text": "The Ford Escape is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Ford",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "19",
+    "text": "The Chevrolet Tahoe is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Chevrolet",
+    "type": "SUV",
+    "seat": 7,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "20",
+    "text": "The Dodge Charger is a sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Dodge",
+    "type": "Sedan",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "21",
+    "text": "The Tesla Model X is a electric suv offering a blend of performance, comfort, and modern features.",
+    "make": "Tesla",
+    "type": "Electric SUV",
+    "seat": 7,
+    "fuel_type": "Electric"
+  },
+  {
+    "id": "22",
+    "text": "The BMW X5 is a luxury suv offering a blend of performance, comfort, and modern features.",
+    "make": "BMW",
+    "type": "Luxury SUV",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "23",
+    "text": "The Audi Q5 is a luxury suv offering a blend of performance, comfort, and modern features.",
+    "make": "Audi",
+    "type": "Luxury SUV",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "24",
+    "text": "The Mercedes-Benz E-Class is a luxury sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Mercedes-Benz",
+    "type": "Luxury Sedan",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "25",
+    "text": "The Hyundai Tucson is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Hyundai",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "26",
+    "text": "The Kia Sorento is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Kia",
+    "type": "SUV",
+    "seat": 7,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "27",
+    "text": "The Jeep Grand Cherokee is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Jeep",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "28",
+    "text": "The Lexus RX is a luxury suv offering a blend of performance, comfort, and modern features.",
+    "make": "Lexus",
+    "type": "Luxury SUV",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "29",
+    "text": "The Mazda CX-5 is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Mazda",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "30",
+    "text": "The Subaru Forester is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Subaru",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "31",
+    "text": "The Volkswagen Passat is a sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Volkswagen",
+    "type": "Sedan",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "32",
+    "text": "The Honda Accord is a sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Honda",
+    "type": "Sedan",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "33",
+    "text": "The Nissan Rogue is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Nissan",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "34",
+    "text": "The Chevrolet Malibu is a sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Chevrolet",
+    "type": "Sedan",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "35",
+    "text": "The GMC Sierra is a truck offering a blend of performance, comfort, and modern features.",
+    "make": "GMC",
+    "type": "Truck",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "36",
+    "text": "The Ram 1500 is a truck offering a blend of performance, comfort, and modern features.",
+    "make": "Ram",
+    "type": "Truck",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "37",
+    "text": "The Toyota Highlander is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Toyota",
+    "type": "SUV",
+    "seat": 7,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "38",
+    "text": "The Ford Edge is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Ford",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "39",
+    "text": "The Volvo XC60 is a luxury suv offering a blend of performance, comfort, and modern features.",
+    "make": "Volvo",
+    "type": "Luxury SUV",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "40",
+    "text": "The Infiniti Q50 is a luxury sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Infiniti",
+    "type": "Luxury Sedan",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "41",
+    "text": "The Jaguar XF is a luxury sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Jaguar",
+    "type": "Luxury Sedan",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "42",
+    "text": "The Land Rover Discovery is a off-road suv offering a blend of performance, comfort, and modern features.",
+    "make": "Land Rover",
+    "type": "Off-road SUV",
+    "seat": 7,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "43",
+    "text": "The Mini Cooper is a hatchback offering a blend of performance, comfort, and modern features.",
+    "make": "Mini",
+    "type": "Hatchback",
+    "seat": 4,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "44",
+    "text": "The Mitsubishi Outlander is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Mitsubishi",
+    "type": "SUV",
+    "seat": 7,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "45",
+    "text": "The Buick Enclave is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Buick",
+    "type": "SUV",
+    "seat": 7,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "46",
+    "text": "The Chrysler 300 is a sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Chrysler",
+    "type": "Sedan",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "47",
+    "text": "The Lincoln Navigator is a luxury suv offering a blend of performance, comfort, and modern features.",
+    "make": "Lincoln",
+    "type": "Luxury SUV",
+    "seat": 7,
+    "fuel_type": "Petrol"
+  },
+  {
+    "id": "48",
+    "text": "The Genesis G80 is a luxury sedan offering a blend of performance, comfort, and modern features.",
+    "make": "Genesis",
+    "type": "Luxury Sedan",
+    "seat": 5,
+    "fuel_type": "Hybrid"
+  },
+  {
+    "id": "49",
+    "text": "The Cadillac XT5 is a luxury suv offering a blend of performance, comfort, and modern features.",
+    "make": "Cadillac",
+    "type": "Luxury SUV",
+    "seat": 5,
+    "fuel_type": "Diesel"
+  },
+  {
+    "id": "50",
+    "text": "The Peugeot 3008 is a suv offering a blend of performance, comfort, and modern features.",
+    "make": "Peugeot",
+    "type": "SUV",
+    "seat": 5,
+    "fuel_type": "Petrol"
+  }
+]
+
+
+
+
